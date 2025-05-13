@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
 
-wrong_type = 'abc' + 123
+right_type = 'abc' + str(123)  # Convert number to string
